@@ -48,10 +48,6 @@ A simple full-stack Password Manager web app built with Node.js, Express, and Re
       npm start
       ```
 
-## 📄 License
-
-MIT License
-
 ## 🤝 Contributing
 
 Pull requests are welcome. Open an issue to discuss improvements or bugs.
